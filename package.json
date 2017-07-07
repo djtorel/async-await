@@ -1,0 +1,11 @@
+{
+  "name": "async-await",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:djtorel/async-await.git",
+  "author": "Dominic Torruellas <dtorruellas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
